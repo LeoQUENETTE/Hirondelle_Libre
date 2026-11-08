@@ -1,0 +1,2 @@
+Application fonctionnant avec un add on Firefox permettant de limité, réguler et bloquer des sites web et des applications sur certains horaires , pendant une certaines période de temps ou jusqu'à ce qu'une autre activité soit faites.
+Elle permet aussi de garder un oeil sur le temps passé sur les applications et les sites. Pour faire fonctionner le tout sur téléphone et ordi, il est nécessaire d'avoir un base de données en ligne, ici Supabase.
